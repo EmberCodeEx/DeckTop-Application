@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FromEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p190035@nu.edu.pk</Value>
+    </Setting>
+    <Setting Name="FromPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">xxazpozjqlbbxdvs</Value>
+    </Setting>
+    <Setting Name="TOEmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">najamaqeel20@gmai.com</Value>
+    </Setting>
+    <Setting Name="TOCC" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">p200611@nu.edu.pk</Value>
+    </Setting>
+    <Setting Name="SMTP_Gmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="SMTP_Yahoo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.mail.yahoo.com</Value>
+    </Setting>
+    <Setting Name="SMTP_OutLook" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.outlook.com</Value>
+    </Setting>
+    <Setting Name="SMTP_Hotmail" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.live.com</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
